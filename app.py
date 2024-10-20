@@ -4,7 +4,7 @@ import json
 
 app = Flask(__name__)
 
-ZABBIX_URL = "http://192.168.44.130/api_jsonrpc.php"
+ZABBIX_URL = "http://192.168.197.131/api_jsonrpc.php"
 ZABBIX_USER = "Admin"
 ZABBIX_PASSWORD = "zabbix"
 
